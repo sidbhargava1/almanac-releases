@@ -1,0 +1,17 @@
+    <item>
+      <title>The Almanac 0.2.0</title>
+      <pubDate>Tue, 27 Oct 2026 03:56:11 +0000</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>A new welcome for new users: a short chat, then a new opening where a line lifts into the Almanac's infinity. Already set up? See it with Help › Replay welcome.</li>
+<li>While an answer is on its way, a soft light now glides along the infinity.</li>
+<li>Delete conversations: right-click one in the sidebar, or File › Delete Conversation… (⌘⌫). Deleted conversations go to the Trash.</li>
+<li>Closing the window no longer quits the Almanac. It stays in the Dock; click the Dock icon or press ⌘0 to bring it back.</li>
+</ul>
+<p>sha256 5723ca18969a3eaf1bd21d0cad1714e115f1814ab0d78fe8d845513c4c0eef30</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.2.0/Almanac-0.2.0.dmg" length="7957011" type="application/octet-stream" sparkle:edSignature="QHqkEkZMhdKZW1QjtKvLkkFLF62LSbU4NW1NrLWM8FA3D9IbQyeHYVObdQZ/rqRddf3zWwFoq0mzBUqGCvBkCg=="/>
+    </item>
