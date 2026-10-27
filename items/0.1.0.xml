@@ -1,0 +1,15 @@
+    <item>
+      <title>The Almanac 0.1.0</title>
+      <pubDate>Tue, 27 Oct 2026 02:02:29 +0000</pubDate>
+      <sparkle:version>0.1.0</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>First release: ask questions of your offline library and read the cited sources.</li>
+<li>The Almanac now checks for updates once a day (The Almanac › Check for Updates… checks now).</li>
+</ul>
+<p>sha256 7017d727bfb5b235d660666eb8ac4d5a65fa855de54cc9f04cc789703af288b9</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.1.0/Almanac-0.1.0.dmg" length="7887031" type="application/octet-stream" sparkle:edSignature="Q37s0tNSPz6bH13EcJc6iNt1Ym7tajX1Q6GN8jxqSs3iBLFlxn/HJGmjN2pwfU3GBPhr1X0uLWoH++7nTRMiCw=="/>
+    </item>
