@@ -1,0 +1,18 @@
+    <item>
+      <title>The Almanac 0.4.0</title>
+      <pubDate>Mon, 02 Nov 2026 21:39:29 +0000</pubDate>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Your folders: point the Almanac at folders on your Mac, like notes or a project, and ask questions about them. It reads text, Markdown, code and PDF files. Add a folder from "+ Add folder…" in the sidebar or in Settings › Sources.</li>
+<li>Answers from your folders cite the file and the lines (or pages, for PDFs). Click a source to open the file.</li>
+<li>"Searching:" above the chat picks what a conversation searches: everything, just the library, or one folder. Click a folder in the sidebar to start a chat about it.</li>
+<li>Folders stay up to date as files change. Some files are skipped: anything your .gitignore excludes, files that look like passwords or keys, files over 2 MB (PDFs included), images, audio and video, and Word, Pages and other office documents. Shortcuts to other files or folders aren't followed, and a folder can hold up to 20,000 files.</li>
+<li>Your files are never changed. Removing a folder only removes the Almanac's index of it.</li>
+</ul>
+<p>sha256 174851d2af4c234d80dde7bac29404e6139c1b53a7ac7b17d3d4d0ee9a11a197</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.4.0/Almanac-0.4.0.dmg" length="8438790" type="application/octet-stream" sparkle:edSignature="CW45duBPMZxm0L4SeFK9zTkHYSgWDLmyWuCUPlXf4+ydHAVG+i1Jitw2ndvVV03VKAHtJ8Yy956tVNAtsTOhAQ=="/>
+    </item>
