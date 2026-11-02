@@ -1,0 +1,19 @@
+    <item>
+      <title>The Almanac 0.3.0</title>
+      <pubDate>Mon, 02 Nov 2026 19:41:25 +0000</pubDate>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>More conversational answers: a direct answer first, then the details in short, easy-to-read points.</li>
+<li>Follow-up questions stay on topic. Ask "why?" or "tell me more" and the Almanac picks up where you left off.</li>
+<li>Suggested follow-up questions can appear under the latest answer. Click one to ask it.</li>
+<li>When your library only covers part of a question, the answer says what's missing and offers "Answer from what I know".</li>
+<li>Questions about burning fuel, like "which wood burns best?", and follow-ups that change the subject get a normal answer.</li>
+<li>If your library has both the full-text and the short Wikipedia packs, the Almanac searches the full-text one.</li>
+</ul>
+<p>sha256 1e9f0c2d134ac08b98e883c45d6dc18caf05d2fc6054cd1b8b8a8b09cabc5876</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.3.0/Almanac-0.3.0.dmg" length="8074355" type="application/octet-stream" sparkle:edSignature="Yx63fDal84CQi1eWykhOZfZHmeQVep8ns5fGKYkCyrPYtlW9724iY0eD/6gP6G+03cFKuoE8PTnM4UAB/LSCAw=="/>
+    </item>
