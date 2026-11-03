@@ -11,6 +11,23 @@ and `appcast.xml`, the feed installed copies check once a day.
 3. Open it. It is self-signed, not notarized, so macOS blocks the first launch: dismiss the
    warning, then System Settings → Privacy & Security → **Open Anyway**.
 
+**Without admin rights** ("Open Anyway" needs an administrator), install into your own
+Applications folder instead:
+
+```sh
+xattr -d com.apple.quarantine ~/Downloads/Almanac-<version>.dmg
+hdiutil attach ~/Downloads/Almanac-<version>.dmg
+mkdir -p ~/Applications && cp -R "/Volumes/The Almanac/Almanac.app" ~/Applications/
+hdiutil detach "/Volumes/The Almanac"
+xattr -dr com.apple.quarantine ~/Applications/Almanac.app
+open ~/Applications/Almanac.app
+```
+
+The app needs `llama-server` at `~/.local/bin/llama-server` (a build with Gemma 4 support), the
+models in `~/Library/Application Support/Almanac/Models/` (`gemma-4-E4B-it-Q4_K_M.gguf`,
+`Qwen3-4B-Instruct-2507-Q4_K_M.gguf`), and optionally ZIM packs in `~/AlmanacLibrary/Pocket/`.
+None of these need admin rights.
+
 ## Updates
 
 The Almanac checks `appcast.xml` daily and offers new versions; **Check for Updates…** in the app
