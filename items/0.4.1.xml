@@ -1,0 +1,23 @@
+    <item>
+      <title>The Almanac 0.4.1</title>
+      <pubDate>Tue, 03 Nov 2026 05:21:34 +0000</pubDate>
+      <sparkle:version>0.4.1</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Your messages now sit in a bubble on the right, so it's easy to tell what you said from what the Almanac answered. The welcome chat looks the same way.</li>
+<li>A cleaner sidebar: one spacing for every row, chats grouped by date, and your sources (the library and your folders) at the bottom with a "+" to add a folder.</li>
+<li>Your name sits at the bottom of the sidebar and opens Settings. Change your name, or the example questions a new chat suggests, in Settings › You. A short line appears under it only when something needs fixing.</li>
+<li>Clicking a folder in the sidebar now opens it in Settings › Sources (instead of starting a chat), where you can rename it, show it in Finder, index it again or remove it. Right-click a folder for the same choices. To search just one folder, use "Searching:" above the chat.</li>
+<li>When your folders cover a question, answers lead with your files. A library page that only shares a name with your question no longer gets into the answer.</li>
+<li>When nothing in your library or folders covers a question, the Almanac now answers from what it knows straight away, and says so. If that answer stops partway, it says the answer was cut off. Health questions still get only quoted text.</li>
+<li>"How's your day?" and similar small talk get a reply instead of a library search.</li>
+<li>While it works, the line beside the infinity says what it's doing: what it's searching, what it's reading and how many sources it's writing from.</li>
+<li>A finer, engraved infinity mark, in the app, the opening and the icon.</li>
+<li>An open article no longer jumps back to the quoted passage while you scroll it, and text no longer slides under the top of the window as you scroll.</li>
+</ul>
+<p>sha256 e07bf417baa087640e41fb88d0db2a6db4a86868aaadad48006de07da1e36809</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.4.1/Almanac-0.4.1.dmg" length="8150216" type="application/octet-stream" sparkle:edSignature="GAjSB1FS/W+AvlJgYIa8TtJLibjWK4M7S7Uxdp4WjqTkglR/OoRc8IS6NKaETVrJ616448qts/AH3G3XbWm2Bw=="/>
+    </item>
