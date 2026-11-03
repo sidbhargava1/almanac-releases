@@ -1,0 +1,17 @@
+    <item>
+      <title>The Almanac 0.4.4</title>
+      <pubDate>Tue, 03 Nov 2026 17:44:28 +0000</pubDate>
+      <sparkle:version>0.4.4</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>A calmer Settings › Memory. Your name and what you mostly ask about sit at the top, under the Use memory switch. Below them, your memories are two quiet lists with an "＋ Add" at the end of each, and "Forget everything…" is in the footer.</li>
+<li>Click anywhere else to stop editing a memory: what you typed is saved. Rows line up and keep their size when you start or stop editing, so nothing jumps.</li>
+<li>If an edit can't be saved (it's too long, say), clicking away keeps your typing and marks the row "Not saved" until you fix or discard it; quitting discards it. Clearing a memory's text puts the old text back; to remove a memory, use Forget or ⌫, and ⌘Z brings it back.</li>
+<li>In the welcome, the choices now look like the replies they become, on the right, and a choice only shows it's selected once you move with Tab or the arrow keys. Return still picks Yes.</li>
+</ul>
+<p>sha256 c5a913c67b3936cd88114a3f0d73b026be8c10af9c17b86b3bf245219f70a787</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.4.4/Almanac-0.4.4.dmg" length="8633462" type="application/octet-stream" sparkle:edSignature="UScMEmFHfrYeIUFi4LrJNnCK6rCwWFozjjl2gsIz0v3YIkwG10l2UEnAczUx3EZFFWeur3rjkxonmot9PD2+AA=="/>
+    </item>
