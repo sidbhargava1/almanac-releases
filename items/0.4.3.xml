@@ -1,0 +1,20 @@
+    <item>
+      <title>The Almanac 0.4.3</title>
+      <pubDate>Tue, 03 Nov 2026 09:03:29 +0000</pubDate>
+      <sparkle:version>0.4.3</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>The Almanac can remember things about you. Say "Remember that I'm vegetarian" or "Remember that I like short answers" in a chat, and it's saved, with Undo.</li>
+<li>How you like answers (length, units, tone) shapes every answer except health ones; if you save more than eight, the newest eight are used. Facts about you and your world are used only when a question touches them: the words they back get a dotted underline, and Sources lists them as "Your memory", so you can tell them from the library.</li>
+<li>When you mention something worth keeping, a "Remember …?" line can appear under the answer. Nothing is saved unless you click it.</li>
+<li>Settings › Memory replaces Settings › You: see, edit or forget anything, pause memory, or Forget Everything (your name and interest stay). Saying "Forget that…" in a chat works too.</li>
+<li>"Don't use memory" in the "Searching:" menu gives a chat a clean slate.</li>
+<li>Health answers are still the reference text word for word. If you've told the Almanac about an allergy that matters, a line above the quotes reminds you, in your own words.</li>
+<li>Your memory stays on this Mac.</li>
+</ul>
+<p>sha256 3e4f110cf47e00d1d2cf30c82a27bb8786aa7a7dca94f384e49b2a645835140a</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.4.3/Almanac-0.4.3.dmg" length="8522353" type="application/octet-stream" sparkle:edSignature="4vZwIwKCOq7hXQRryb4+3HlpxTECBBH9+DiTRGiiFSeolR1n7xoADH6GdC1KZA+P1/JEtaMTKrG1J3hkUUY1BA=="/>
+    </item>
