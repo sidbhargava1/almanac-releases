@@ -5,6 +5,23 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/almanac-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>The Almanac 0.5.1</title>
+      <pubDate>Tue, 03 Nov 2026 23:20:40 +0000</pubDate>
+      <sparkle:version>0.5.1</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Your folders now read bigger PDFs and Word and Pages documents. The Almanac reads text, Markdown, code and config; PDFs (page by page, only the beginning of a PDF past 5,000 pages or 20 MB of text); Word (.docx, .doc, .rtf, .odt) and single-file Pages documents. Answers cite "paragraphs 12–18" for Word, Pages and RTF files.</li>
+<li>Text and notes are searchable at once; documents follow, smallest first, so a big PDF never holds the rest of a folder up.</li>
+<li>A document that can't be read is skipped, not stuck: a locked PDF, a password-protected Word file, an old Pages format or a Pages file saved as a package, and a file that takes too long. It's tried again when the file changes. Settings › Sources says how many files were skipped and why.</li>
+<li>On this update your folders are re-read from scratch in the background (the way the Almanac splits files changed). Each folder becomes searchable again as the re-read reaches it, text files first; your files are never changed.</li>
+</ul>
+<p>sha256 2a897b467730e5c995001325cb1faabb6d9f7db668f3dabf7aa51b5bcbfd22cd</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.5.1/Almanac-0.5.1.dmg" length="15032186" type="application/octet-stream" sparkle:edSignature="Lfd2Ig8Xo5umeDRGn9ki/ShSGmV697UlQdTTr8rZXyxlLaEbVv/aF/wRwF/dKA8haw3QVdsctRdhAaJnsUQlAg=="/>
+    </item>
+    <item>
       <title>The Almanac 0.5.0</title>
       <pubDate>Tue, 03 Nov 2026 22:43:42 +0000</pubDate>
       <sparkle:version>0.5.0</sparkle:version>
