@@ -1,0 +1,17 @@
+    <item>
+      <title>The Almanac 0.4.2</title>
+      <pubDate>Tue, 03 Nov 2026 06:12:43 +0000</pubDate>
+      <sparkle:version>0.4.2</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>A warmer voice. Answers read more like a knowledgeable friend and get to the point, without filler like "It's worth noting that" or "Great question!" to start a sentence.</li>
+<li>The odd emoji: in greetings, quick replies and answers from what the Almanac knows, and now and then on the line that introduces a list in a library answer. Never in a part of an answer that cites a source.</li>
+<li>The Almanac uses your name from time to time.</li>
+<li>Health answers are unchanged: the reference text word for word, with no added voice, name or emoji.</li>
+</ul>
+<p>sha256 1952bb6dc1f13f296ce6e096148a8bc60cfb940ffe1ec89fe1eab8c704f7fdc3</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.4.2/Almanac-0.4.2.dmg" length="8186624" type="application/octet-stream" sparkle:edSignature="OQEZBXCw27BcOU9ZuCqeQvx4ogwU/NHOEuOC00450ky5+QfDVPIh2ecJcp3Rpl+4Y2fzr30qjdaUDBO8ygVwDg=="/>
+    </item>
