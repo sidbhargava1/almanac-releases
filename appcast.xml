@@ -5,6 +5,28 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/almanac-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>The Almanac 0.5.0</title>
+      <pubDate>Tue, 03 Nov 2026 22:43:42 +0000</pubDate>
+      <sparkle:version>0.5.0</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>The Almanac now gets itself ready. Nothing to install beside the app: the chat engine is inside it. On first launch the welcome chat asks once whether to download what it needs: two language models (about 7.5 GB) and the Pocket set of books (about 0.9 GB). You can keep talking while they arrive. "I already have the files" takes a folder instead, and "Not now" leaves it for later.</li>
+<li>Downloads resume after a quit, a dropped connection or a sleeping Mac, are checked before use, and need room: it tells you how much to free if the disk is short. A progress line sits under your name in the sidebar.</li>
+<li>A question asked before a model has arrived waits, with its progress, instead of failing.</li>
+<li>Already have the models on this Mac? Nothing is downloaded on its own. Settings › Library shows anything that isn't on this Mac yet, with a Download link.</li>
+<li>The Pocket set is Wikipedia's top articles, Wikipedia medicine, NHS medicines, CDC travel health and three collections on medicine, water and food preparation. A question about the library waits, with its progress, until the first pack is ready. The three collections are documents with no text index: they're downloaded and listed as "reading only" in Settings › Library, but the Almanac can't search or open them yet.</li>
+<li>New Settings › Library. It lists every model and pack on this Mac with its date and size, and whether it is ready, downloading, missing or no longer updated. You can remove one (it asks first), download it again, or add Military Medicine, an optional pack. It also shows how much space the Almanac uses and how much is free. Sources is now just Your folders.</li>
+<li>If your library is the old ~/AlmanacLibrary/Pocket folder, or another folder you chose, it keeps working: its packs show as "In your folder", aren't downloaded again, and the Almanac never changes or deletes them.</li>
+<li>"Download on another computer" lists each missing file with its size and a link to copy ("Copy All Links" adds each file's SHA-256 fingerprint), and an Incoming folder to drop the files into; the Almanac checks and files them, and tells you why if it can't use one.</li>
+<li>WikiMed is now called "Wikipedia medicine" where answers name their sources.</li>
+</ul>
+<p>sha256 3d6ad27374ad7bb7da1817c7ffe494486f8b7c53dd2e02b8ff46df657ab10d10</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.5.0/Almanac-0.5.0.dmg" length="14786440" type="application/octet-stream" sparkle:edSignature="oA/DEVxg8OdGky05i1FImYGiAveLNB8qyEWBc8DjhH5AOuP62LG9cTzaU70cYf8EgJ/HG35LJbsxW+cafjmADw=="/>
+    </item>
+    <item>
       <title>The Almanac 0.4.4</title>
       <pubDate>Tue, 03 Nov 2026 17:44:28 +0000</pubDate>
       <sparkle:version>0.4.4</sparkle:version>
