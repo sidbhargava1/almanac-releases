@@ -5,6 +5,22 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/almanac-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>The Almanac 0.5.3</title>
+      <pubDate>Wed, 04 Nov 2026 02:14:23 +0000</pubDate>
+      <sparkle:version>0.5.3</sparkle:version>
+      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Health questions that use a brand name now find the right medicine pages. Motrin, Advil and Nurofen find ibuprofen; Tylenol, Calpol and Panadol find paracetamol (acetaminophen). Asking about a toddler or other child also looks for the child's page, such as the NHS "Ibuprofen for children".</li>
+<li>When a health question names ibuprofen, paracetamol or aspirin (or a brand), quotes about that medicine come first, and once one is found, dosed quotes from pages about other medicines are left out. A Medical Library page that gives doses is kept only when it names the medicine you asked about and none of the other two.</li>
+<li>A quote with nothing readable in it is never shown.</li>
+</ul>
+<p>sha256 7597e5e4231817ad71cf51d1b7b45395075bd66c8ad71297bf2ee2773a774259</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.5.3/Almanac-0.5.3.dmg" length="15106314" type="application/octet-stream" sparkle:edSignature="tYi+QsZZ26Zy61FWxpO9n/WjeadVEVeGvvxTaSjeDwzzPz0uC1Fi/vtE5stbAw8Gn/Y9+nGdrmyYFJr/zyLmDw=="/>
+    </item>
+    <item>
       <title>The Almanac 0.5.2</title>
       <pubDate>Wed, 04 Nov 2026 00:41:12 +0000</pubDate>
       <sparkle:version>0.5.2</sparkle:version>
