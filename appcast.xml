@@ -5,6 +5,22 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/almanac-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>The Almanac 0.5.2</title>
+      <pubDate>Wed, 04 Nov 2026 00:41:12 +0000</pubDate>
+      <sparkle:version>0.5.2</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>The food, water and medicine collections are now searchable. Answers cite the book and the pages, "Medical Library · Where There Is No Doctor · pages 4–6", and clicking one opens the book's text at that passage.</li>
+<li>These collections hold PDFs only, so the first time you open the app after updating, it reads them once in the background (about 18 MB of space, and well under a minute on a recent Mac). Each collection is searchable as soon as its first PDF is read, and Settings › Library shows each collection's progress ("Reading PDFs · 5 of 12") until it's done, then how many PDFs it holds. A scanned PDF with no text is counted ("17 PDFs · 1 has no text (scanned)"), not hidden. If the disk is nearly full, a PDF waits until there is room.</li>
+<li>Health answers drawn from the medical PDFs show the book's words, like every other health answer.</li>
+</ul>
+<p>sha256 3e9be0c400d6bede295dcd3c2a48e5f164006702b6d8c96c626397a547115730</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.5.2/Almanac-0.5.2.dmg" length="15087247" type="application/octet-stream" sparkle:edSignature="19EoNVc+BgeI1A3pRQ3ToyR+MyfeZsU7DjfVdi9Zh/+4LCIZE5NIf29vp44pG0ItyV+qVb6euDgQ2d1v6+PXDA=="/>
+    </item>
+    <item>
       <title>The Almanac 0.5.1</title>
       <pubDate>Tue, 03 Nov 2026 23:20:40 +0000</pubDate>
       <sparkle:version>0.5.1</sparkle:version>
