@@ -5,6 +5,23 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/almanac-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>The Almanac 0.5.5</title>
+      <pubDate>Wed, 04 Nov 2026 22:08:47 +0000</pubDate>
+      <sparkle:version>0.5.5</sparkle:version>
+      <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Travel pages were being skipped. About fifty CDC pages, including the destination pages for the Bahamas, Sri Lanka, New Zealand and El Salvador, were wrongly treated as machine translations and left out of answers. They are found again, and folders with paths like "docs/faq" are no longer affected.</li>
+<li>A contraction like "we're" is now read as one word instead of searching for a stray "re", so "sure, we're going to the Bahamas" searches for the Bahamas, and a name like "Maria's" searches for "Maria".</li>
+<li>A slang word with digits inside, such as "z0mg", no longer counts as a drug dose and turns an ordinary question into a health answer.</li>
+<li>Your folders no longer lead an answer when a library page matches your question far better; they lead only when they are about as good a match.</li>
+</ul>
+<p>sha256 6e29e69a3ac4210d5d33877a86599bb07075a7486144308edb4c510f26e1fb57</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.5.5/Almanac-0.5.5.dmg" length="15135914" type="application/octet-stream" sparkle:edSignature="cBxmIJwToO65Yjd/ljP+MBrYfKJFMPdlyPjoRjzR5u05zM9R0OmtthKZ6F4U9+DGCSLTQezBH6njp0NnhDCiAw=="/>
+    </item>
+    <item>
       <title>The Almanac 0.5.4</title>
       <pubDate>Wed, 04 Nov 2026 21:20:07 +0000</pubDate>
       <sparkle:version>0.5.4</sparkle:version>
