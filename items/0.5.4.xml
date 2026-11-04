@@ -1,0 +1,14 @@
+    <item>
+      <title>The Almanac 0.5.4</title>
+      <pubDate>Wed, 04 Nov 2026 21:20:07 +0000</pubDate>
+      <sparkle:version>0.5.4</sparkle:version>
+      <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>The models stay ready while the Almanac window is open, so answers start without waking them up.</li>
+</ul>
+<p>sha256 e93bc0115126711f64e2f69f31bf60c5a0bc15a92cdb5eb53a74524af5e1d30e</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.5.4/Almanac-0.5.4.dmg" length="15177809" type="application/octet-stream" sparkle:edSignature="ydYEwvhnoBR4tI8J16QwNy3Q7ZOWLlP8nnfJIpxygvLullifIFUWIYcSFWUpL8oREMwRx775kmWjpozZfnIaDQ=="/>
+    </item>
