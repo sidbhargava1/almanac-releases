@@ -1,0 +1,16 @@
+    <item>
+      <title>The Almanac 0.5.6</title>
+      <pubDate>Thu, 05 Nov 2026 02:38:36 +0000</pubDate>
+      <sparkle:version>0.5.6</sparkle:version>
+      <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>The opening animation now turns the line over into the mark like a ribbon, a little slower than before.</li>
+<li>Packs are named the same everywhere (for example "CDC Travelers’ Health" in the library list and in answers), a pack the Almanac doesn't list is named and credited from its own details, and the example questions on a new chat show only for packs you can search, dimmed while a pack is still on its way.</li>
+<li>While an answer loads, the mark now turns back and forth like the opening's ribbon, in place of its sparkle.</li>
+</ul>
+<p>sha256 f4f7b9ac00650f5940f97cf5fad8b9ea9e93d8fd2385c377e077b9271a8b3fa4</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.5.6/Almanac-0.5.6.dmg" length="15239598" type="application/octet-stream" sparkle:edSignature="vIzuV6Js8Kk92XbzCI9YEaJLPn7MtB877OJqFOp6hhAhqiW2y0uF9fbWjhnq6XzxZFnhxG7hNvW/hgXMv8CeDQ=="/>
+    </item>
