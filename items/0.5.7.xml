@@ -1,0 +1,16 @@
+    <item>
+      <title>The Almanac 0.5.7</title>
+      <pubDate>Fri, 06 Nov 2026 04:09:02 +0000</pubDate>
+      <sparkle:version>0.5.7</sparkle:version>
+      <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Health answers now read like a conversation. The Almanac opens with a sentence or two in its own words, then shows the reference pages' own text under their headings, for example each NHS strength of children's ibuprofen, with the amounts exactly as the page gives them. It never writes a dose, an age or a time itself. If it has nothing to say it opens with a short line saying where the pages come from, and if nothing in your library answers the question it says so instead of showing unrelated quotes.</li>
+<li>Questions about staying well or travel health, such as "health risks for travel to the Bahamas", are now answered this way even when they use none of the usual medical words. A short reply like "sure" to something the Almanac offered continues that offer.</li>
+<li>"Answer from what I know" now appears only when it can answer, and only once per question. Before, an earlier health question in the same chat could make it refuse every later question, adding the same refusal on each click.</li>
+</ul>
+<p>sha256 4e7d4cc7e241380cafca2346ff4ee82866a7a21a7868b5f8618565658827d8f1</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/almanac-releases/releases/download/v0.5.7/Almanac-0.5.7.dmg" length="15295449" type="application/octet-stream" sparkle:edSignature="PGK8FV9MHwpuB/Vki1xTW1YT4Z4LhjMl6s5b+HPPQeHdG6A9AYyYOzbzI4XSJdpummvi9f+k5J4Ed5yqGITBAQ=="/>
+    </item>
